@@ -1,0 +1,14 @@
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\bin\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.exe
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\bin\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.deps.json
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\bin\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.runtimeconfig.json
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\bin\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.dll
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\bin\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.pdb
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\obj\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\obj\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.AssemblyInfoInputs.cache
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\obj\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.AssemblyInfo.cs
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\obj\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.csproj.CoreCompileInputs.cache
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\obj\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.dll
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\obj\Debug\net8.0\refint\Ezernel kisebb pozitiv egesz szamok.dll
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\obj\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.pdb
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\obj\Debug\net8.0\Ezernel kisebb pozitiv egesz szamok.genruntimeconfig.cache
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Ezernel kisebb pozitiv egesz szamok\obj\Debug\net8.0\ref\Ezernel kisebb pozitiv egesz szamok.dll

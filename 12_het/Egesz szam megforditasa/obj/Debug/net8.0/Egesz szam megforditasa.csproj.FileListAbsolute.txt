@@ -1,0 +1,14 @@
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\bin\Debug\net8.0\Egesz szam megforditasa.exe
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\bin\Debug\net8.0\Egesz szam megforditasa.deps.json
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\bin\Debug\net8.0\Egesz szam megforditasa.runtimeconfig.json
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\bin\Debug\net8.0\Egesz szam megforditasa.dll
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\bin\Debug\net8.0\Egesz szam megforditasa.pdb
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\obj\Debug\net8.0\Egesz szam megforditasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\obj\Debug\net8.0\Egesz szam megforditasa.AssemblyInfoInputs.cache
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\obj\Debug\net8.0\Egesz szam megforditasa.AssemblyInfo.cs
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\obj\Debug\net8.0\Egesz szam megforditasa.csproj.CoreCompileInputs.cache
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\obj\Debug\net8.0\Egesz szam megforditasa.dll
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\obj\Debug\net8.0\refint\Egesz szam megforditasa.dll
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\obj\Debug\net8.0\Egesz szam megforditasa.pdb
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\obj\Debug\net8.0\Egesz szam megforditasa.genruntimeconfig.cache
+C:\Users\pavai\Desktop\Prog 2 C Sharp\12_het\Egesz szam megforditasa\obj\Debug\net8.0\ref\Egesz szam megforditasa.dll
